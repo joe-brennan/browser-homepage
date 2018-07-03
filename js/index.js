@@ -29,13 +29,13 @@ $(document).ready(() => {
     $("h1").css("color", "#FFFFFF");
   });
 
-  $(".youtube").hover(() => {
+  $(".github").hover(() => {
     $("body").css("background", "#E03A3E");
-    $(".youtube").css("color", "#FFFFFF");
+    $(".github").css("color", "#FFFFFF");
     $("h1").css("color", "#FFFFFF");
   }, () => {
     $("body").css("background", "#404040");
-    $(".youtube").css("color", "#E03A3E");
+    $(".github").css("color", "#E03A3E");
     $("h1").css("color", "#FFFFFF");
   });
 

@@ -1,7 +1,7 @@
 # browser-homepage
 A default browser homepage which contains links to most used sites
 
-##How to use
+## How to use
 Clone this github repository by typing
 `git clone https://github.com/joe-brennan/browser-homepage`
 
